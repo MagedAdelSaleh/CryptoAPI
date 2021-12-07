@@ -1,4 +1,5 @@
 [Crypto Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjE0YmFmMzQtMTYzNS00Y2ExLThkNDMtYzU4ZmNiYzE1NWIyIiwidCI6IjYwMGFiZjJmLWZkZjctNGUxNS1hY2Y3LWVlNjM1ODhhZTEzYSJ9&embedImagePlaceholder=true)
+
 https://magedadelsaleh.github.io/CryptoAPI/ 
 
 ![Crypto](https://user-images.githubusercontent.com/80975738/144709963-4c91469f-d25f-4e85-b2e2-f2c8aac7de1a.jpg)
@@ -11,3 +12,5 @@ https://magedadelsaleh.github.io/CryptoAPI/
 
 
 <iframe title="Crypto_API_USD - Page 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjE0YmFmMzQtMTYzNS00Y2ExLThkNDMtYzU4ZmNiYzE1NWIyIiwidCI6IjYwMGFiZjJmLWZkZjctNGUxNS1hY2Y3LWVlNjM1ODhhZTEzYSJ9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
+
+<iframe title="BC_Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjFmMzk0YjEtMmM0Yy00ODRmLWFkOWUtMjI0MDM3NmJhM2U4IiwidCI6IjYwMGFiZjJmLWZkZjctNGUxNS1hY2Y3LWVlNjM1ODhhZTEzYSJ9&embedImagePlaceholder=true&pageName=ReportSection7796c6d090e922ed26a7" frameborder="0" allowFullScreen="true"></iframe>
