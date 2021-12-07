@@ -1,4 +1,5 @@
 [Crypto Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjE0YmFmMzQtMTYzNS00Y2ExLThkNDMtYzU4ZmNiYzE1NWIyIiwidCI6IjYwMGFiZjJmLWZkZjctNGUxNS1hY2Y3LWVlNjM1ODhhZTEzYSJ9&embedImagePlaceholder=true)
+https://magedadelsaleh.github.io/CryptoAPI/ 
 
 ![Crypto](https://user-images.githubusercontent.com/80975738/144709963-4c91469f-d25f-4e85-b2e2-f2c8aac7de1a.jpg)
 
