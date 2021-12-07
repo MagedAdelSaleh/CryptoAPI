@@ -1,4 +1,4 @@
-[Crypto Dashboard](https://app.powerbi.com/view?r=eyJrIjoiMjE0YmFmMzQtMTYzNS00Y2ExLThkNDMtYzU4ZmNiYzE1NWIyIiwidCI6IjYwMGFiZjJmLWZkZjctNGUxNS1hY2Y3LWVlNjM1ODhhZTEzYSJ9&embedImagePlaceholder=true)
+[Crypto Dashboard](https://app.powerbi.com/reportEmbed?reportId=8d6db256-34bd-4640-9eb0-17b5acbee4d0&autoAuth=true&ctid=600abf2f-fdf7-4e15-acf7-ee63588ae13a&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly82MDBhYmYyZmZkZjc0ZTE1YWNmN2VlNjM1ODhhZTEzYS1hcGkuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D)
 
 https://magedadelsaleh.github.io/CryptoAPI/ 
 
@@ -10,5 +10,4 @@ https://magedadelsaleh.github.io/CryptoAPI/
 # [API](https://api.cryptowat.ch/markets/coinbase-pro)
 # [BTC API](https://api.cryptowat.ch/markets/coinbase-pro/btcusd/ohlc)
 
-
-<iframe title="BC_Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjFmMzk0YjEtMmM0Yy00ODRmLWFkOWUtMjI0MDM3NmJhM2U4IiwidCI6IjYwMGFiZjJmLWZkZjctNGUxNS1hY2Y3LWVlNjM1ODhhZTEzYSJ9&embedImagePlaceholder=true&pageName=ReportSection7796c6d090e922ed26a7" frameborder="0" allowFullScreen="true"></iframe>
+<iframe title="Crypto_API_USD - Page 1" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=8d6db256-34bd-4640-9eb0-17b5acbee4d0&autoAuth=true&ctid=600abf2f-fdf7-4e15-acf7-ee63588ae13a&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly82MDBhYmYyZmZkZjc0ZTE1YWNmN2VlNjM1ODhhZTEzYS1hcGkuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D" frameborder="0" allowFullScreen="true"></iframe>
