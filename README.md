@@ -1,4 +1,4 @@
-[Crypto Dashboard](https://app.powerbi.com/reportEmbed?reportId=8d6db256-34bd-4640-9eb0-17b5acbee4d0&autoAuth=true&ctid=600abf2f-fdf7-4e15-acf7-ee63588ae13a&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly82MDBhYmYyZmZkZjc0ZTE1YWNmN2VlNjM1ODhhZTEzYS1hcGkuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D)
+[Crypto Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYzAwY2Y2YWItZWI1YS00NWNiLWI4NDAtMWIzYjdlMjM2ZjAwIiwidCI6IjYwMGFiZjJmLWZkZjctNGUxNS1hY2Y3LWVlNjM1ODhhZTEzYSJ9&embedImagePlaceholder=true)
 
 
 ![Crypto](https://user-images.githubusercontent.com/80975738/144709963-4c91469f-d25f-4e85-b2e2-f2c8aac7de1a.jpg)
