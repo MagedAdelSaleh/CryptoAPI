@@ -11,6 +11,4 @@ https://magedadelsaleh.github.io/CryptoAPI/
 # [BTC API](https://api.cryptowat.ch/markets/coinbase-pro/btcusd/ohlc)
 
 
-<iframe title="Crypto_API_USD - Page 1" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMjE0YmFmMzQtMTYzNS00Y2ExLThkNDMtYzU4ZmNiYzE1NWIyIiwidCI6IjYwMGFiZjJmLWZkZjctNGUxNS1hY2Y3LWVlNjM1ODhhZTEzYSJ9&embedImagePlaceholder=true" frameborder="0" allowFullScreen="true"></iframe>
-
 <iframe title="BC_Dashboard" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjFmMzk0YjEtMmM0Yy00ODRmLWFkOWUtMjI0MDM3NmJhM2U4IiwidCI6IjYwMGFiZjJmLWZkZjctNGUxNS1hY2Y3LWVlNjM1ODhhZTEzYSJ9&embedImagePlaceholder=true&pageName=ReportSection7796c6d090e922ed26a7" frameborder="0" allowFullScreen="true"></iframe>
